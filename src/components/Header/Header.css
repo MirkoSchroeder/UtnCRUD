@@ -1,0 +1,13 @@
+.header {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.style {
+    text-decoration: none;  
+}
+
+li {
+    padding: 0px 50px;
+}
